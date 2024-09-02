@@ -1,0 +1,16 @@
+{
+  "name": "svgtoastro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "svgtoastro": "./index.js"
+  },
+  "keywords": [],
+  "author": "Renzo Costarelli",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "svgo": "^3.3.2"
+  }
+}
